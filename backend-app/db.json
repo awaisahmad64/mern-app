@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Awais",
+      "email": "awaisahmad@gmail.com"
+    },
+    {
+      "id": "2",
+      "username": "Awais Ahmad Sandhu",
+      "email": "awais@gmail.com"
+    },
+    {
+      "id": "5",
+      "username": "Ahnmad",
+      "email": "awais@sanshdu.com"
+    },
+    {
+      "id": "3",
+      "username": "Sohail",
+      "email": "sohail@gmail.com"
+    },
+    {
+      "id": "4",
+      "username": "Amir",
+      "email": "amir@gmail.com"
+    }
+  ]
+}
